@@ -11,6 +11,7 @@ var session = require('express-session');
 var routes = require('./routes/index');
 
 var egs ="Business Solutions";
+var pentahoperu ="Business Intelligence";
 var app = express();
 
 // view engine setup
