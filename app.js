@@ -10,6 +10,7 @@ var session = require('express-session');
 
 var routes = require('./routes/index');
 
+var egs ="Business Solutions";
 var app = express();
 
 // view engine setup
