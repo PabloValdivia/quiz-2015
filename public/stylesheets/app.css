@@ -8644,4 +8644,30 @@ footer {
     width: 700px;
   }
 }
+/* line 46, ../sass/app.scss */
+ul a {
+  color: #fff;
+}
+
+/* line 50, ../sass/app.scss */
+ul a:link {
+  color: yellow;
+}
+
+/* line 54, ../sass/app.scss */
+ul a:visited {
+  color: yellow;
+}
+
+/* line 58, ../sass/app.scss */
+ul a:hover {
+  color: orange;
+}
+
+/* line 62, ../sass/app.scss */
+li {
+  color: white;
+  list-style: none;
+}
+
 /*@import "compass/reset";*/
