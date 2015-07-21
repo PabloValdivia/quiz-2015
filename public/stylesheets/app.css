@@ -8650,21 +8650,27 @@ ul a {
 }
 
 /* line 50, ../sass/app.scss */
-ul a:link {
-  color: yellow;
+ul#egsli a:link, ul#egsli a:visited {
+  color: black;
 }
 
 /* line 54, ../sass/app.scss */
-ul a:visited {
+ul a:link, ul a:visited {
   color: yellow;
 }
 
-/* line 58, ../sass/app.scss */
+/* line 57, ../sass/app.scss */
 ul a:hover {
   color: orange;
 }
 
-/* line 62, ../sass/app.scss */
+/* line 60, ../sass/app.scss */
+ul#egsli li {
+  color: black;
+  list-style: square;
+}
+
+/* line 65, ../sass/app.scss */
 li {
   color: white;
   list-style: none;

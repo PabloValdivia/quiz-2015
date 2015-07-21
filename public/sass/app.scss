@@ -47,16 +47,19 @@ ul a {
   color: #fff;
 }
 
-ul a:link {
-  color: yellow;
+ul#egsli a:link, ul#egsli a:visited {
+    color: black;
 }
 
-ul a:visited {
+ul a:link, ul a:visited {
   color: yellow;
 }
-
 ul a:hover {
   color: orange;
+}
+ul#egsli li{
+  color: black;
+  list-style:square;
 }
 
 li{
