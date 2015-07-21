@@ -2,16 +2,7 @@ body             { background: #333; }
 
 #page-wrap:after { content: "Smartphone Layout"; }
 
-<<<<<<< HEAD
 h2 span, section h3
                  { display: none; }
 body             { font-size: xx-large; }
 footer, input    { font-size: large; }
-=======
-h2 span, section h3, label.rem 
-                 { display: none; }
-body             { font-size: xx-large; }
-input, button    { font-size: x-large; }
-footer           { font-size: large; }
-.quiz_img { float: none; }
->>>>>>> 8fcd607a3f2b3e8186177ab9bd28102a6d02b397
