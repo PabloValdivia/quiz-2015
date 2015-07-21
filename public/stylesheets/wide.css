@@ -2,6 +2,7 @@ body { background: #999; }
 
 #page-wrap:after { content: "Wide Layout"; }
 
+<<<<<<< HEAD
 nav       {   
 	float: left;
 	width: 15%;
@@ -10,3 +11,9 @@ nav       {
 nav span  { margin: 0px 100px 0px 0px;}
 section   { float: right; width: 84.8%; height: 200px ;}
 footer    { clear: both;  display: block;height: 100px; }
+=======
+nav       { float: left; width: 15%; height: 200px ;}
+nav span  { margin: 0px 100px 0px 0px;}
+section   { float: right; width: 80%; height: 200px ;}
+footer    { clear: both;  display: block; }
+>>>>>>> 8fcd607a3f2b3e8186177ab9bd28102a6d02b397

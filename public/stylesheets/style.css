@@ -11,3 +11,11 @@ footer               { background: #eee; text-align: center;}
 nav span             { margin: 0px 10px 0px 0px;
   					   width: 100%;
   					   display: inline-block;}
+<<<<<<< HEAD
+=======
+
+#ErrorMsgs           { color: #f61; font-size: smaler}
+.right 				 {float: right;}
+
+.quiz_img 			 { height: 150px; float: left;}
+>>>>>>> 8fcd607a3f2b3e8186177ab9bd28102a6d02b397

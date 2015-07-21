@@ -1,4 +1,9 @@
 node_modules
 .DS_Store
 npm-debug.log
+<<<<<<< HEAD
 *.scss
+=======
+quiz.sqlite
+public/media 
+>>>>>>> 8fcd607a3f2b3e8186177ab9bd28102a6d02b397
