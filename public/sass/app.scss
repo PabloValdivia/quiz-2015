@@ -43,5 +43,26 @@
         }
 }
 
+ul a {
+  color: #fff;
+}
+
+ul a:link {
+  color: yellow;
+}
+
+ul a:visited {
+  color: yellow;
+}
+
+ul a:hover {
+  color: orange;
+}
+
+li{
+  color: white;
+  list-style:none;
+}
+
 
 /*@import "compass/reset";*/
